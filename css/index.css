@@ -29,7 +29,7 @@ main{
 }
 
 .divImg{
-    background-image: url(./img/22083-popular-techno-wallpapers-2560x1600-fuer-phones.jpg);
+    background-image: url(../img/22083-popular-techno-wallpapers-2560x1600-fuer-phones.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-color: var(--black);
